@@ -1,0 +1,14 @@
+{
+  "name": "gajinkars",
+  "version": "1.0.0",
+  "description": "Gajinkar Builders",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Sandesh",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
